@@ -1,5 +1,6 @@
 // Lab215-3.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//By Matt Schuler for CGT 215
+//Test of basic function implementation
 
 #include <iostream>
 using namespace std;
